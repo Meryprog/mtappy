@@ -2,6 +2,7 @@
 
 import Button from '@/components/Button'
 import { useAuth } from '@/hooks/auth'
+import '@/app/global.css'
 import { useState } from 'react'
 
 const Page = () => {
